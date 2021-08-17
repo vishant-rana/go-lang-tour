@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/greetings"
+	"github.com/vishant-rana/go-lang-tour.git/hello/greetings"
 )
 
 func main() {
